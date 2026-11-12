@@ -1,6 +1,6 @@
 # A non-geodesic edge that survives in the loop-erased ant process
 
-Paper: `loop_erased_ants.pdf` (source `loop_erased_ants.tex`).
+Paper: `loop_erased_ants.pdf` (source `loop_erased_ants.tex`, with the notation appendix in `notation.tex`).
 
 In the loop-erased ant process of Kious, Mailler and Schapira (Finding geodesics on graphs using reinforcement
 learning, Ann. Appl. Probab. 32 (2022), arXiv:2010.04820), ants walk one after another from a nest N to a food source
